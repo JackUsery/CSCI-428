@@ -1,9 +1,9 @@
 /**
  * This program creates a 2D array of size 20x30 and fills it with 0s and 1s in a checkerboard pattern. Then fills the top and bottom rows with 0s. Then computes the sum of the elements in the array and prints the array in tabular form.
  *
- * @author  Usery Jack
+ * @author     Usery Jack
  * @assignment CSCI 428 Assignment 3 Question 1
- * @date 10/10/2023
+ * @date       10/10/2023
  */
 
 
@@ -11,7 +11,8 @@ public class assign3Qn1JackUsery {
 
     public static void main(String[] args) {
         // declare the 2D array
-        int[][] board = new int[20][30];
+        int[][] board;
+        board = new int[20][30];
         // fill the array with 0
         for (int i = 0; i < board.length; i++) {
             for (int j = 0; j < board[1].length; j++) {
@@ -20,15 +21,19 @@ public class assign3Qn1JackUsery {
         }
         // fill elements with 0s and 1s in a checkerboard pattern
         for (int i = 0; i < board.length; i++) {
+            // if the row is even
             if (i % 2 == 0) {
                 for (int j = 0; j < board[1].length; j++) {
                     if (j % 2 == 0) {
+                        // if the column is even
                         board[i][j] = 0;
                     } else {
+                        // if the column is odd
                         board[i][j] = 1;
                     }
                 }
             } else {
+                // if the row is odd
                 for (int j = 0; j < board[1].length; j++) {
                     if (j % 2 == 0) {
                         board[i][j] = 1;

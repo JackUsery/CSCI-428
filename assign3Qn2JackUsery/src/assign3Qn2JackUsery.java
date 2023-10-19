@@ -36,6 +36,9 @@ public class assign3Qn2JackUsery {
         // call radius method
         double radius = radius(center_x, center_y, x2, y2);
 
+        // call diameter method
+        double diameter = diameter(radius);
+
         // call circumference method
         double circumference = circumference(radius);
 
@@ -44,6 +47,7 @@ public class assign3Qn2JackUsery {
 
         // print results to two decimal places
         System.out.printf("The radius is %.2f\n", radius);
+        System.out.printf("The diameter is %.2f\n", diameter);
         System.out.printf("The circumference is %.2f\n", circumference);
         System.out.printf("The area is %.2f\n", area);
 
@@ -60,6 +64,11 @@ public class assign3Qn2JackUsery {
     // radius method
     public static double radius(double center_x, double center_y, double point_x, double point_y) {
         return distance(center_x, center_y, point_x, point_y);
+    }
+
+    // diameter method
+    public static double diameter(double radius) {
+        return 2 * radius;
     }
 
     // circumference method

@@ -1,9 +1,10 @@
 /**
- * This program creates a 2D array of size 20x30 and fills it with 0s and 1s in a checkerboard pattern. Then fills the top and bottom rows with 0s. Then computes the sum of the elements in the array and prints the array in tabular form.
+ * This program creates a 2D array of size 20x30 and fills it with 0s and 1s in a checkerboard pattern.
+ * Then fills the top and bottom rows with 0s. Then computes the sum of the elements in the array and prints the array in tabular form.
  *
  * @author     Usery Jack
  * @assignment CSCI 428 Assignment 3 Question 1
- * @date       10/10/2023
+ * @date       10/12/2023
  */
 
 

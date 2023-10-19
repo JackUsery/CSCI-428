@@ -4,7 +4,7 @@
  *
  * @author  Usery Jack
  * @assignment CSCI 428 Assignment 3 Question 2
- * @date 10/10/2023
+ * @date 10/16/2023
  */
 
 import java.util.Scanner;

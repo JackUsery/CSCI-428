@@ -3,7 +3,7 @@
  *
  * @author     Usery Jack
  * @assignment CSCI 428 Assignment 3 Question 3
- * @date       10/10/2023
+ * @date       10/18/2023
  */
 
 import java.util.Arrays;

@@ -1,3 +1,13 @@
+/*
+This is the Test class that tests the other classes.
+
+@Author: Jack Usery
+
+@Assignment: 4 Qn 3
+
+@Date: 11/09/2023
+ */
+
 import java.util.ArrayList;
 
 public class Test {
@@ -54,33 +64,5 @@ public class Test {
     senior1.setCompanyStocks(10000.00);
 
     System.out.println(senior1.toString());
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     }
-
-
-
-
-
 }

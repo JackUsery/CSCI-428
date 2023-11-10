@@ -77,7 +77,4 @@ public class FullTimeEmployee extends Person {
 
         return "FullTimeEmployee [name = " + getName() + "]";
     }
-
-
-
 }

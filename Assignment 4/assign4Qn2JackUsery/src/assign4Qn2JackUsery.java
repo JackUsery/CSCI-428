@@ -1,3 +1,13 @@
+/*
+generates an array of 1000 random integers, prompts the user to enter an index between 0 and 1000, and prints the value at that index if it's within bounds; otherwise, it prints "Out of Bounds."
+
+@Author Jack Usery
+
+@Assignment 4 Qn 2
+
+@Date 11/07/2023
+ */
+
 import java.util.InputMismatchException;
 import java.util.Random;
 import java.util.Scanner;

@@ -1,3 +1,16 @@
+/*
+This program creates a Senior class that extends the FullTimeEmployee class and adds a list of juniors and company stocks.
+
+@Author: Jack Usery
+
+@Assignment: 4 Qn 3
+
+@Date: 11/09/2020
+ */
+
+
+
+
 import java.util.ArrayList;
 
 public class Senior extends FullTimeEmployee {

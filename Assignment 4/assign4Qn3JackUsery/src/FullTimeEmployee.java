@@ -1,3 +1,13 @@
+/*
+This program creates a FullTimeEmployee class that extends the Person class and adds an office, salary, and date hired.
+
+@Author: Jack Usery
+
+@Assignment: 4 Qn 3
+
+@Date: 11/09/2020
+ */
+
 public class FullTimeEmployee extends Person {
 
     private String office;

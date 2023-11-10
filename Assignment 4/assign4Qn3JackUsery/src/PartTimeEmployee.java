@@ -1,3 +1,15 @@
+/*
+This is the PartTimeEmployee class. It extends the Person class and adds a classStatus and payRate
+
+@Author: Jack Usery
+
+@Assignment: 4 Qn 3
+
+@Date: 11/09/2020
+ */
+
+
+
 public class PartTimeEmployee extends Person{
 
 

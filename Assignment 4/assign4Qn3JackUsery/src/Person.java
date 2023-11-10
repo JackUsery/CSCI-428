@@ -1,3 +1,13 @@
+/*
+This program creates a Person class that has a name, address, phone number, and email address.
+
+@Author: Jack Usery
+
+@Assignment: 4 Qn 3
+
+@Date: 11/09/2020
+ */
+
 public class Person {
 
     private String name;

@@ -1,3 +1,13 @@
+/*
+This is the junior class that extends the full time employee class. It has a mentor and a rank.
+
+@Author: Jack Usery
+
+@Assignment: 4 Qn 3
+
+@Date: 11/09/2020
+ */
+
 public class Junior extends FullTimeEmployee {
 
     private String mentor;

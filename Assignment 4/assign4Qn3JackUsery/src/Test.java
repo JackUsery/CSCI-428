@@ -19,7 +19,7 @@ public class Test {
     parttimeEmployee1.setAddress("1111 Main St.");
     parttimeEmployee1.setPhoneNumber("111-111-1111");
     parttimeEmployee1.setEmailAddress("john@gmail.com");
-    parttimeEmployee1.setClassStatus("Regular");
+    parttimeEmployee1.setClassStatus(PartTimeEmployee.classStatusSeasonal);
     parttimeEmployee1.setPayRate(10.00);
 
     System.out.println(parttimeEmployee1.toString());

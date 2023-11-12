@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CSCI-428.iml" filepath="$PROJECT_DIR$/.idea/CSCI-428.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 3/assign3Qn1JackUsery/assign3Qn1JackUsery.iml" filepath="$PROJECT_DIR$/Assignment 3/assign3Qn1JackUsery/assign3Qn1JackUsery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 3/assign3Qn2JackUsery/assign3Qn2JackUsery.iml" filepath="$PROJECT_DIR$/Assignment 3/assign3Qn2JackUsery/assign3Qn2JackUsery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 3/assign3Qn3JackUsery/assign3Qn3JackUsery.iml" filepath="$PROJECT_DIR$/Assignment 3/assign3Qn3JackUsery/assign3Qn3JackUsery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 4/assign4Qn1JackUsery/assign4Qn1JackUsery.iml" filepath="$PROJECT_DIR$/Assignment 4/assign4Qn1JackUsery/assign4Qn1JackUsery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 4/assign4Qn2JackUsery/assign4Qn2JackUsery.iml" filepath="$PROJECT_DIR$/Assignment 4/assign4Qn2JackUsery/assign4Qn2JackUsery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Assignment 4/assign4Qn3JackUsery/assign4Qn3JackUsery.iml" filepath="$PROJECT_DIR$/Assignment 4/assign4Qn3JackUsery/assign4Qn3JackUsery.iml" />
+    </modules>
+  </component>
+</project>
